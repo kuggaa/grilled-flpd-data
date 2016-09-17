@@ -1,0 +1,9 @@
+Title: Part 2: Displaying Fort Lauderdale Poice Department Data Using a ReactJS Grid Component Called Grilled
+Slug: part2-displaying-fort-lauderdale-poice-department-data-using-a-reactjs-grid-component-called-grilled
+Date: 2016-9-16 19:15
+Category: Coding
+Tags: reactjs; javascript; mongodb;
+Author: Don Morehouse
+Summary: Notes on how I displayed data from a data collection based on existing collections in MongoDB from the City of Fort Lauderdale Police Department traffic citations and accidents data obtained at the Code for Fort Lauderdale Hackathon 2016. This is an exercise in building a website using libraries as much as possible and frameworks as little as possible. Part 2.
+Status: published
+

@@ -1,0 +1,11 @@
+{
+  "name": "local_db",
+  "version": "1.0.0",
+  "description": "Test connection to MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Don Morehouse",
+  "license": "ISC"
+}

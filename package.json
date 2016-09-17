@@ -1,0 +1,41 @@
+{
+  "name": "grilled_flpd_data",
+  "version": "1.0.0",
+  "description": "Diplay data from a data collection based on existing collections in MongoDB from the City of Fort Lauderdale Police Department traffic citations and accidents data obtained at the Code for Fort Lauderdale Hackathon 2016. This is an exercise in building a website using libraries as much as possible and frameworks as little as possible. Grilled is a ReactJS component that is the object of this exercise.",
+  "main": "index.js",
+  "dependencies": {
+    "griddle-react": "~0.2.8",
+    "gulp": "~3.8.10",
+    "gulp-browserify": "~0.5.0",
+    "gulp-concat": "~2.4.2",
+    "mongodb": "2.2.10",
+    "react": "~0.12.1",
+    "reactify": "~0.17.1",
+    "underscore": "~1.8.2"
+  },
+  "devDependencies": {
+    "gulp-concat": "~2.4.2",
+    "gulp": "~3.8.10",
+    "reactify": "~0.17.1",
+    "gulp-browserify": "~0.5.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dm-wyncode/grilled-flpd-data.git"
+  },
+  "keywords": [
+    "reactjs",
+    "grilled",
+    "javascript",
+    "mongodb"
+  ],
+  "author": "Don Morehouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dm-wyncode/grilled-flpd-data/issues"
+  },
+  "homepage": "https://github.com/dm-wyncode/grilled-flpd-data#readme"
+}
